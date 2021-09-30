@@ -1,3 +1,3 @@
-This is the first file
+This is an edit of the first file, from another different branch
 And this is the first edit of the first file
 This is a new edit from different branch
